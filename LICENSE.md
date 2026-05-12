@@ -1,4 +1,4 @@
-# 
+# custom raydium trading bot Addon | transaction-batching + MEV-strategies is the best raydium trading bot, featuring transaction-batching and MEV-strategies. Smart, fast, and
 
 
 
